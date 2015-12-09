@@ -6,7 +6,7 @@ void setup() {
 void draw() {
   background(0);
   if (mousePressed) {
-    pen(100);
+    pen(120);
   }
 }
 
